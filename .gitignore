@@ -87,3 +87,8 @@ flycheck_*.el
 
 # projectiles files
 .projectile
+
+# Test output
+output
+# Log output
+logs

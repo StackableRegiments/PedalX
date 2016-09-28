@@ -1,1 +1,0 @@
-var root = "https://d2l-metl-test.stackableregiments.com/";
